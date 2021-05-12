@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Shkala.png</file>
+        <file>images/Strela.png</file>
+        <file>images/FloSC.png</file>
+        <file>images/Jaguar.jpg</file>
+        <file>images/StrelaB.png</file>
+        <file>images/StrelaG.png</file>
+        <file>images/StrelaR.png</file>
+    </qresource>
+</RCC>
